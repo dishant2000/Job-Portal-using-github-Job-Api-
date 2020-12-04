@@ -5,7 +5,7 @@ function About() {
     <div style = {{marginTop : "100px"}}>
       <Container>
 
-          I'm dishant Kumawat 
+          I'm dishant Kumawat
 
       </Container>
     </div>

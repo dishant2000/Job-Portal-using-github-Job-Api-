@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cc9ddf94d44c8ab3dd41f212324eca29",
+    "revision": "75d722e9043a8db159407c844f12d178",
     "url": "/Job-Portal-using-github-Job-Api-/index.html"
   },
   {
-    "revision": "38d51ca41075a3290212",
+    "revision": "ada6ef6392f3194e2a45",
     "url": "/Job-Portal-using-github-Job-Api-/static/css/main.909b481b.chunk.css"
   },
   {
-    "revision": "3a76ecbba818313232f5",
-    "url": "/Job-Portal-using-github-Job-Api-/static/js/2.74f97ca3.chunk.js"
+    "revision": "f0928401181b455f989f",
+    "url": "/Job-Portal-using-github-Job-Api-/static/js/2.6635fb08.chunk.js"
   },
   {
     "revision": "ce12de340ef4804f0d244ce30d144354",
-    "url": "/Job-Portal-using-github-Job-Api-/static/js/2.74f97ca3.chunk.js.LICENSE.txt"
+    "url": "/Job-Portal-using-github-Job-Api-/static/js/2.6635fb08.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "38d51ca41075a3290212",
-    "url": "/Job-Portal-using-github-Job-Api-/static/js/main.42cecc59.chunk.js"
+    "revision": "ada6ef6392f3194e2a45",
+    "url": "/Job-Portal-using-github-Job-Api-/static/js/main.71bb38de.chunk.js"
   },
   {
     "revision": "b1d8f6a47c414b0c2468",

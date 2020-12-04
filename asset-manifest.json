@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Job-Portal-using-github-Job-Api-/static/css/main.909b481b.chunk.css",
-    "main.js": "/Job-Portal-using-github-Job-Api-/static/js/main.42cecc59.chunk.js",
-    "main.js.map": "/Job-Portal-using-github-Job-Api-/static/js/main.42cecc59.chunk.js.map",
+    "main.js": "/Job-Portal-using-github-Job-Api-/static/js/main.71bb38de.chunk.js",
+    "main.js.map": "/Job-Portal-using-github-Job-Api-/static/js/main.71bb38de.chunk.js.map",
     "runtime-main.js": "/Job-Portal-using-github-Job-Api-/static/js/runtime-main.c8b5d836.js",
     "runtime-main.js.map": "/Job-Portal-using-github-Job-Api-/static/js/runtime-main.c8b5d836.js.map",
-    "static/js/2.74f97ca3.chunk.js": "/Job-Portal-using-github-Job-Api-/static/js/2.74f97ca3.chunk.js",
-    "static/js/2.74f97ca3.chunk.js.map": "/Job-Portal-using-github-Job-Api-/static/js/2.74f97ca3.chunk.js.map",
+    "static/js/2.6635fb08.chunk.js": "/Job-Portal-using-github-Job-Api-/static/js/2.6635fb08.chunk.js",
+    "static/js/2.6635fb08.chunk.js.map": "/Job-Portal-using-github-Job-Api-/static/js/2.6635fb08.chunk.js.map",
     "index.html": "/Job-Portal-using-github-Job-Api-/index.html",
-    "precache-manifest.8e71c2099ccf5b2bc44279e960999b4e.js": "/Job-Portal-using-github-Job-Api-/precache-manifest.8e71c2099ccf5b2bc44279e960999b4e.js",
+    "precache-manifest.6ffbac2794f704f9561446073127d0aa.js": "/Job-Portal-using-github-Job-Api-/precache-manifest.6ffbac2794f704f9561446073127d0aa.js",
     "service-worker.js": "/Job-Portal-using-github-Job-Api-/service-worker.js",
     "static/css/main.909b481b.chunk.css.map": "/Job-Portal-using-github-Job-Api-/static/css/main.909b481b.chunk.css.map",
-    "static/js/2.74f97ca3.chunk.js.LICENSE.txt": "/Job-Portal-using-github-Job-Api-/static/js/2.74f97ca3.chunk.js.LICENSE.txt",
+    "static/js/2.6635fb08.chunk.js.LICENSE.txt": "/Job-Portal-using-github-Job-Api-/static/js/2.6635fb08.chunk.js.LICENSE.txt",
     "static/media/githubjobapi.png": "/Job-Portal-using-github-Job-Api-/static/media/githubjobapi.0feef502.png"
   },
   "entrypoints": [
     "static/js/runtime-main.c8b5d836.js",
-    "static/js/2.74f97ca3.chunk.js",
+    "static/js/2.6635fb08.chunk.js",
     "static/css/main.909b481b.chunk.css",
-    "static/js/main.42cecc59.chunk.js"
+    "static/js/main.71bb38de.chunk.js"
   ]
 }

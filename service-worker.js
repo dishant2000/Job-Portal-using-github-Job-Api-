@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Job-Portal-using-github-Job-Api-/precache-manifest.8e71c2099ccf5b2bc44279e960999b4e.js"
+  "/Job-Portal-using-github-Job-Api-/precache-manifest.6ffbac2794f704f9561446073127d0aa.js"
 );
 
 self.addEventListener('message', (event) => {
